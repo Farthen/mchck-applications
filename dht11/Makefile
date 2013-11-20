@@ -1,4 +1,4 @@
-PROG =	printf
+PROG =	dht11
 USE =	usb
 
 SRCS +=	main.c
